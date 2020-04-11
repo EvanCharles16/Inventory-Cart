@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Indomie goreng",
+      "imgURL": "./product-img/mie.jpg",
+      "qty": 0
+    },
+    {
+      "id": 2,
+      "name": "Teh botol",
+      "imgURL": "./product-img/tehbotol.jpeg",
+      "qty": 0
+    },
+    {
+      "id": 3,
+      "name": " Sari Roti",
+      "imgURL": "./product-img/roti.jpg",
+      "qty": 0
+    },
+    {
+      "id": 4,
+      "name": "Oreo",
+      "imgURL": "./product-img/oreo.jpeg",
+      "qty": 0
+    }
+  ]
+  
+}
